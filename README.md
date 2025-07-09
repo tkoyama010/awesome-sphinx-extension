@@ -14,4 +14,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [Presentation](#presentation)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Presentation
+
+- [sphinx-revealjs](https://github.com/attakei/sphinx-revealjs) - HTML Presentation builder for Pythonista. Generates reveal.js presentations from standard reStructuredText.
