@@ -31,3 +31,4 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Visualization
 - [pyvista](https://docs.pyvista.org/extras/plot_directive.html) - Sphinx extensions for generating static and interactive 3D scenes. Includes plot_directive and viewer_directive for embedding 3D visualizations in documentation.
+- [sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) - Embed Mermaid diagrams in Sphinx documentation. Supports flowcharts, sequence diagrams, gantt charts, and more with flexible output formats.
