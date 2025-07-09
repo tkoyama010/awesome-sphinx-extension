@@ -26,3 +26,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Fun & Entertainment
 
 - [sphinx-nekochan](https://github.com/takanory/sphinx-nekochan) - A Sphinx extension for adding the "Nekochan(cat) emoji" to documents. Adds cat emojis to your documentation using special syntax.
+
+## Internationalization
+
+- [atsphinx-mini18n](https://pypi.org/project/atsphinx-mini18n/) - A minimal internationalization extension for Sphinx. Part of the atsphinx ecosystem providing simplified i18n functionality.
