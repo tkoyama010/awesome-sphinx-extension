@@ -31,3 +31,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Internationalization
 
 - [atsphinx-mini18n](https://pypi.org/project/atsphinx-mini18n/) - A minimal internationalization extension for Sphinx. Part of the atsphinx ecosystem providing simplified i18n functionality.
+
+## Visualization
+
+- [pyvista.ext.plot_directive](https://docs.pyvista.org/extras/plot_directive.html) - Sphinx extension for generating static and interactive 3D scenes using PyVista. Provides pyvista-plot directive for embedding 3D visualizations in documentation.
+- [pyvista.ext.viewer_directive](https://docs.pyvista.org/extras/plot_directive.html) - Companion extension for PyVista plot directive that enables interactive 3D scene viewing in documentation.
