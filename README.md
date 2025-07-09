@@ -21,3 +21,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Presentation
 
 - [sphinx-revealjs](https://github.com/attakei/sphinx-revealjs) - HTML Presentation builder for Pythonista. Generates reveal.js presentations from standard reStructuredText.
+
+## Fun & Entertainment
+
+- [sphinx-nekochan](https://github.com/takanory/sphinx-nekochan) - A Sphinx extension for adding the "Nekochan(cat) emoji" to documents. Adds cat emojis to your documentation using special syntax.
