@@ -16,6 +16,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Presentation](#presentation)
 - [Fun & Entertainment](#fun--entertainment)
+- [Internationalization](#internationalization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
