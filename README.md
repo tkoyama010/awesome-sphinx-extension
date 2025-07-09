@@ -15,6 +15,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Table of Contents
 
 - [Presentation](#presentation)
+- [Fun & Entertainment](#fun--entertainment)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
