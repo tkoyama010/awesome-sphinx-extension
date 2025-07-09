@@ -17,6 +17,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Presentation](#presentation)
 - [Fun & Entertainment](#fun--entertainment)
 - [Internationalization](#internationalization)
+- [Visualization](#visualization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -31,3 +32,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Internationalization
 
 - [atsphinx-mini18n](https://pypi.org/project/atsphinx-mini18n/) - A minimal internationalization extension for Sphinx. Part of the atsphinx ecosystem providing simplified i18n functionality.
+
+## Visualization
+
+- [pyvista](https://docs.pyvista.org/extras/plot_directive.html) - Sphinx extensions for generating static and interactive 3D scenes. Includes plot_directive and viewer_directive for 3D visualizations.
+- [sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) - Embed Mermaid diagrams in Sphinx documentation. Supports flowcharts, sequence diagrams, gantt charts with flexible output formats.
