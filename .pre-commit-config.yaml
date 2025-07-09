@@ -11,3 +11,8 @@ repos:
     hooks:
       - id: markdownlint
         args: ['--fix']
+  - repo: https://github.com/thlorenz/doctoc
+    rev: v2.2.0
+    hooks:
+      - id: doctoc
+        args: ['--github', '--title', '## Table of Contents', '--maxlevel', '3']
