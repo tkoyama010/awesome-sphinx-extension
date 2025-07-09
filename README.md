@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://www.sphinx-doc.org/en/master/_static/sphinx-logo.svg" alt="Sphinx Logo" width="200">
+  ❤️
 </p>
 
 > A curated list of awesome Sphinx extensions.
