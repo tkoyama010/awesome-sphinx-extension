@@ -1,5 +1,9 @@
 # Awesome Sphinx Extension [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<p align="center">
+  <img src="https://www.sphinx-doc.org/en/master/_static/sphinx-logo.svg" alt="Sphinx Logo" width="200">
+</p>
+
 > A curated list of awesome Sphinx extensions.
 
 A curated list of awesome Sphinx extensions conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
