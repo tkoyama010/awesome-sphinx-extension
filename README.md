@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://www.sphinx-doc.org/en/master/_static/sphinx-logo.svg" alt="Sphinx Logo" width="200">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2764.svg" alt="Heart" width="160" style="vertical-align: middle; margin-left: 40px;">
 </p>
 
 > A curated list of awesome Sphinx extensions.
